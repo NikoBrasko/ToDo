@@ -1,0 +1,23 @@
+.default {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-weight:lighter;
+    padding: 20px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.red {
+    background-color: #F35C2D;
+}
+
+.blue {
+    background-color: rgb(55, 102, 177);
+}
+
+.default:hover {
+    background-color: rgb(71, 121, 201);
+}
