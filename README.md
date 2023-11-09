@@ -1,3 +1,5 @@
+<img src="https://media.discordapp.net/attachments/1043373050919395390/1172027960405020672/2023-11-09_07.19.13.png"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
